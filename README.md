@@ -1,4 +1,4 @@
-## I'm Bree 👋🏿
+## I'm Bree 👋🏿 | Full Stack Developer | Building & Learning in Public
 
 <!--
 **bree-jeune/bree-jeune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## Full Stack Developer | Building & Learning in Public
 
 I'm a full stack developer focused on creating practical web applications and sharing the journey. Currently building projects, creating Notion templates for developers, and documenting everything I learn.
 
