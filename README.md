@@ -1,4 +1,4 @@
-## Hi there 👋
+## I'm Bree 👋🏿
 
 <!--
 **bree-jeune/bree-jeune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-# I'm Bree 👋🏿
 
 ## Full Stack Developer | Building & Learning in Public
 
